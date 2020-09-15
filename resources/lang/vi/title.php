@@ -1,0 +1,37 @@
+<?php 
+
+return [
+
+	"vi" => "Tiếng Việt",
+	"en" => "Tiếng Anh",
+	"admin" => "Quản trị viên",
+	"department" => "Phòng",
+	"staff" => "Nhân viên",
+	"add_new_d" => "Thêm phòng mới",
+	"name" => "Tên",
+	"save" => "Lưu",
+	"edit" => "Sửa",
+	"detail" => "Chi tiết",
+	"infor_d" => "Thông tin chi tiết",
+	"add" => "Thêm",
+	"name_of_d" => "Tên phòng",
+	"id" => "Mã",
+	"delete" => "Xóa",
+	"list" => "liệt kê",
+	"add_new_s" => "Thêm nhân viên",
+	"name_of_s" => "Tên nhân viên",
+	"addr_of_s" => "Địa chỉ nhân viên",
+	"fullname" => "Họ và Tên ",
+	"address" => "Địa chỉ ",
+	"birthday" => "Ngày sinh",
+	"gender" =>"Giới tính",
+	"male" => "Nam",
+	 "female" =>"Nữ",
+	 "avatar" => "Ảnh đại diện",
+	 "work_at" => "Làm việc tại",
+	 "close" => "Đóng",
+	 "noti_add" => "Bạn đã thêm thành công",
+	 "noti_edit" => "Bạn đã sửa thành công",
+	 "noti_delete" => "Bạn đã xóa thành công",
+	 
+ ];

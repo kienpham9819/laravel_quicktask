@@ -1,7 +1,6 @@
 <?php 
 
 return [
-
 	"vi" => "Vietnamese",
 	"en" => "English",
 	"admin" => "Admin",
@@ -33,6 +32,4 @@ return [
 	"noti_add" => "You added success",
 	"noti_edit" => "You editted success",
 	"noti_delete" => "You deleted success",
-	
 ];
-

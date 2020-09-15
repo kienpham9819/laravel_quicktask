@@ -1,7 +1,6 @@
 <?php 
 
 return [
-
 	"vi" => "Tiếng Việt",
 	"en" => "Tiếng Anh",
 	"admin" => "Quản trị viên",
@@ -26,12 +25,12 @@ return [
 	"birthday" => "Ngày sinh",
 	"gender" =>"Giới tính",
 	"male" => "Nam",
-	 "female" =>"Nữ",
-	 "avatar" => "Ảnh đại diện",
-	 "work_at" => "Làm việc tại",
-	 "close" => "Đóng",
-	 "noti_add" => "Bạn đã thêm thành công",
-	 "noti_edit" => "Bạn đã sửa thành công",
-	 "noti_delete" => "Bạn đã xóa thành công",
-	 
+	"female" =>"Nữ",
+	"avatar" => "Ảnh đại diện",
+	"work_at" => "Làm việc tại",
+	"close" => "Đóng",
+	"noti_add" => "Bạn đã thêm thành công",
+	"noti_edit" => "Bạn đã sửa thành công",
+	"noti_delete" => "Bạn đã xóa thành công",
  ];
+ 
